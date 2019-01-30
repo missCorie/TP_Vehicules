@@ -1,0 +1,10 @@
+{
+    "compilerOptions":{
+      "target":"es5",
+      "pretty":true,
+      "outDir": "./js"
+    },
+    "files":[
+      "app.ts", "vehicule.ts", "moto.ts", "voiture.ts", "camion.ts"
+    ]
+  }
